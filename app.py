@@ -1,2 +1,1 @@
-print("Hello from Jenkins!")
-print("Jenkins successfully retrieved the GitHub source code.")
+print("Updated source code retrieved successfully!")
